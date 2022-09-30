@@ -2,6 +2,7 @@
 #### An Analysis of the Activity Level Changes within reddit Communities in Relation to Sentiment
 
 ### [The project blog page]("https://richardye101.github.io/CSCD25-Final-Project/")  
+https://richardye101.github.io/CSCD25_Final_Project/
 
 ### [Github repo]("https://github.com/richardye101/CSCD25-Final-Project")
 
